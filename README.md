@@ -1,2 +1,11 @@
-# 10202018-AngularPlusExpress
-Small Project that marries Angular with a Node.js backend.
+# Organizing Angular with Express
+
+## Running This Project
+
+`npm i`
+
+`cd client && npm i`
+
+`cd ..`
+
+`npm run dev`
